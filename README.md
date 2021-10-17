@@ -7,8 +7,8 @@ A telegram media to [gofile](https://gofile.io) bot
 ```
 Made with Python3
 (C) @FayasNoushad
-Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/GoFile-Bot/blob/main/LICENSE
+Copyright permission under  License
+License -> https://github.com/gigameher473/Empire-GoFile-Uploder/blob/main/LICENSE
 ```
 
 ---
@@ -27,6 +27,7 @@ python3 main.py
 
 ## Deploy on Heroku
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gigameher473/Empire-GoFile-Uploder)
 
 ## Variables
 
