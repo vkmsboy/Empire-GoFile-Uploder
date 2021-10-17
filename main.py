@@ -1,6 +1,6 @@
 # Made with python3
 # (C) @gigameher473
-# Copyright permission under MIT License
+# Copyright permission under GNU License
 # All rights reserved by gigameher473
 # License -> https://github.com/gigameher473/Empire-GoFile-Uploder/blob/main/LICENSE
 
