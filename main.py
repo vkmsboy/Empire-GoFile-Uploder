@@ -1,8 +1,8 @@
 # Made with python3
-# (C) @FayasNoushad
+# (C) @gigameher473
 # Copyright permission under MIT License
-# All rights reserved by FayasNoushad
-# License -> https://github.com/FayasNoushad/GoFile-Bot/blob/main/LICENSE
+# All rights reserved by gigameher473
+# License -> https://github.com/gigameher473/Empire-GoFile-Uploder/blob/main/LICENSE
 
 import os
 from pyrogram import Client, filters
@@ -21,7 +21,7 @@ Bot = Client(
 @Bot.on_message(filters.private & filters.command("start"))
 async def start(bot, update):
     await update.reply_text(
-        text=f"Hello {update.from_user.mention}, Please send a media for gofile.io stream link.\n\nMade by @FayasNoushad",
+        text=f"Hello {update.from_user.mention}, Please send a media for gofile.io stream link.\n\nMade by @EMPIREBOTS",
         disable_web_page_preview=True,
         quote=True
     )
@@ -67,7 +67,7 @@ async def media_filter(bot, update):
                 InlineKeyboardButton(text="Share Link", url=f"https://telegram.me/share/url?url={response['directLink']}")
             ],
             [
-                InlineKeyboardButton(text="Join Updates Channel", url="https://telegram.me/FayasNoushad")
+                InlineKeyboardButton(text="Join Updates Channel", url="https://telegram.me/EMPIREBOTS")
             ]
         ]
     )
