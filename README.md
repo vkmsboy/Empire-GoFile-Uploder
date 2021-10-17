@@ -16,7 +16,7 @@ License -> https://github.com/FayasNoushad/GoFile-Bot/blob/main/LICENSE
 ## Deploy
 
 ```sh
-git clone https://github.com/FayasNoushad/GoFile-Bot/tree/main
+git clone https://github.com/gigameher473/Empire-GoFile-Uploder/tree/main
 cd GoFile-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -24,6 +24,9 @@ python3 main.py
 ```
 
 ---
+
+## Deploy on Heroku
+
 
 ## Variables
 
@@ -35,5 +38,5 @@ python3 main.py
 
 ## Credits
 
-- [Fayas Noushad](https://github.com/FayasNoushad)
+- [Fayas Noushad](https://github.com/gigameher473)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
