@@ -6,8 +6,8 @@ A telegram media to [gofile](https://gofile.io) bot
 
 ```
 Made with Python3
-(C) @FayasNoushad
-Copyright permission under  License
+(C) @gigameher473
+Copyright permission under GNU License
 License -> https://github.com/gigameher473/Empire-GoFile-Uploder/blob/main/LICENSE
 ```
 
