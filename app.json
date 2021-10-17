@@ -1,0 +1,38 @@
+{
+    "name": "Go File Uploder",
+    "description": "A Id Bot by @EMPIREBOTS",
+    "logo": "https://telegra.ph/file/08a15dfeecef95bbb8aea.jpg",
+    "keywords": [
+        "Telegram",
+        "Id",
+        "Bot"
+    ],
+    "website": "https://github.com/gigameher473/Empire-GoFile-Uploder",
+    "repository": "https://github.com/gigameher473/Empire-GoFile-Uploder",
+    "success_url": "https://github.com/gigameher473/Empire-GoFile-Uploder",
+    "env": {
+        "API_ID": {
+            "description": "Your APP ID",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "Your Bot Token From @BotFather",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
